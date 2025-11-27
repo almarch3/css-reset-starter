@@ -123,9 +123,11 @@ h1 {
     font-weight: bold;
 }
 
-h2 {
+h2, h3 {
     text-align: center;
     margin: 2rem 0 1rem;
+    font-size: 2rem;
+    font-weight: bold;
 } 
  
 /* Paragraph Styles */
@@ -285,7 +287,6 @@ pre code{
 code div{
     padding: 1rem;
     overflow: scroll;
-    max-height: 300px;
 }
 
 footer p {
