@@ -90,7 +90,7 @@ header, footer{
 /* Navigation Styles */
 nav{
     width: 60%;
-    margin: 0 auto 1rem;
+    margin: 0 auto .5rem;
 }
 
 nav ul{
