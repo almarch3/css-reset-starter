@@ -89,8 +89,8 @@ header, footer{
 
 /* Navigation Styles */
 nav{
-    width: 60%;
-    margin: 0 auto .5rem;
+    width: 50%;
+    margin: 0 auto;
 }
 
 nav ul{
