@@ -124,14 +124,22 @@ h1 {
     font-weight: bold;
 }
 
+/* Styles for the h2 & h3 tags */
+h2 {
+    text-align: center;
+    margin: 2rem 0 1rem;
+    font-size: 1rem;
+    font-weight: bold;
+} 
+ 
+h3 {
+    text-align: center;
+    margin: 2rem 0 1rem;
+}
+
 /* Styles for the Sections in the Main */
 main > section{
     padding: 1rem 0;
-}
-
-/* Styles for the h2 & h3 tags */
-h2, h3{
-    text-align: center;
 }
 
 /* Paragraph Styles */
