@@ -116,6 +116,13 @@ nav a:hover{
     background-color: var(--white);
 }
 
+/* Styles for the Headers */
+
+h1 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
+
 /* Styles for the Sections in the Main */
 main > section{
     padding: 1rem 0;
