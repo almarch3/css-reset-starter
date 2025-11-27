@@ -85,7 +85,7 @@ header, main, footer{
 header, footer{
     text-align: center;
     background-color: var(--mint);
-    padding: 1.5rem;
+    padding: 1.5rem 1rem;
 }
 
 header {
