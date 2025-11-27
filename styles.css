@@ -94,7 +94,7 @@ header {
 /* Navigation Styles */
 nav{
     width: 50%;
-    margin: 1rem auto;
+    margin: 0 auto;
 }
 
 nav ul{
@@ -123,7 +123,7 @@ nav a:hover{
 /* Styles for the Headers */
 h1 {
     font-size: 2rem;
-    margin-bottom: 1.5rem;
+    margin: 1.5rem auto;
     font-weight: bold;
 }
 
