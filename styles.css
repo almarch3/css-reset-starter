@@ -67,7 +67,8 @@ body{
     font-family: var(--fonts);
     color: var(--dk-gray);
     line-height: 1.5;
-    padding: 2rem 0;
+    margin: 0;
+    padding: 1rem 0;
 }
 
 /* Styles for the Header, Main, & Footer */
