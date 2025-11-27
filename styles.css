@@ -227,13 +227,13 @@ input[type=radio] + label::before {
     line-height: 0.3;
     border-radius: 50%;
     display: inline-block;  
-    height: 18px;
-    width: 18px;
+    height: 22px;
+    width: 22px;
     text-align: center;
-    margin-right: 16px;
+    margin: 0 auto;
     border: 2px solid var(--red);   /* Push focus shadow away */
     background-color: var(--white);
-    padding: 2px 2px 0 0;
+    padding: 2px 1px 0 0;
 }
 
 input[type=radio]:checked + label::before {
