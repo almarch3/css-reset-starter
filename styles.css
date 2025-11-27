@@ -87,6 +87,10 @@ header, footer{
     background-color: var(--mint);
 }
 
+header {
+    display: block;
+}
+
 /* Navigation Styles */
 nav{
     width: 50%;
