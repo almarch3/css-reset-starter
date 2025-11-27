@@ -201,7 +201,6 @@ fieldset{
     gap: 1rem;
     margin: 1rem 0;
     border: 2px solid var(--red);
-    border-radius: 4px;
     padding: 1rem;
 }
 
@@ -234,7 +233,7 @@ input[type=radio] + label::before {
     margin-right: 16px;
     border: 2px solid var(--red);   /* Push focus shadow away */
     background-color: var(--white);
-    padding: 2px 1px 0 0;
+    padding: 2rem;
 }
 
 input[type=radio]:checked + label::before {
