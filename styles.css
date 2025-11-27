@@ -89,6 +89,7 @@ header, footer{
 
 header {
     display: block;
+    padding-top: 1rem;
 }
 
 /* Navigation Styles */
